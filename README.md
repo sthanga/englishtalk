@@ -164,4 +164,8 @@ Sorry, you can’t smoke in this room. (can + not)
 ## must   - கடமை
 
 ## Grammer language
-
+## some applications has to be installed  == சில பயன்பாடுகளை நிறுவ வேண்டும்.
+## some applications has  installed  == சில பயன்பாடுகள் நிறுவப்பட்டுள்ளன.
+## some applications was installed  == சில பயன்பாடுகள் நிறுவப்பட்டன.
+## some applications is installed  == சில பயன்பாடுகள் நிறுவப்பட்டுள்ளன.
+## some applications had installed  == சில பயன்பாடுகள் நிறுவப்பட்டிருந்தன.
