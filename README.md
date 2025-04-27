@@ -175,3 +175,4 @@ Sorry, you can’t smoke in this room. (can + not)
 அவற்றின் அதிகபட்ச விலை 80 லட்சம்.
 ## This video explains what kind of business you can start with just 1000 rupees.- வெறும் 1000 ரூபாயை வைத்துக் கொண்டு என்ன மாதியான தொழில் துவங்கலாம் என்பது குறித்து இந்த வீடியோவில் விளக்கப்பட்டுள்ளது
 ## just -வெறும்
+## A smile is a symbol of love -- புன்னகையே அன்பின் சின்னம்
