@@ -169,3 +169,9 @@ Sorry, you can’t smoke in this room. (can + not)
 ## some applications was installed  == சில பயன்பாடுகள் நிறுவப்பட்டன.
 ## some applications is installed  == சில பயன்பாடுகள் நிறுவப்பட்டுள்ளன.
 ## some applications had installed  == சில பயன்பாடுகள் நிறுவப்பட்டிருந்தன.
+
+## த்ரிஷாவின் நிகர சொத்து மதிப்பு 85 கோடியாக உள்ளது -Trisha's net worth is 85 crores.
+## Their maximum price is 80 lakhs -
+அவற்றின் அதிகபட்ச விலை 80 லட்சம்.
+## This video explains what kind of business you can start with just 1000 rupees.- வெறும் 1000 ரூபாயை வைத்துக் கொண்டு என்ன மாதியான தொழில் துவங்கலாம் என்பது குறித்து இந்த வீடியோவில் விளக்கப்பட்டுள்ளது
+## just -வெறும்
